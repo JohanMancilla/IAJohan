@@ -1,0 +1,52 @@
+c:\Users\160279\Documents\IA\Busqueda\bin\Debug\netcoreapp3.1\Busqueda.exe
+c:\Users\160279\Documents\IA\Busqueda\bin\Debug\netcoreapp3.1\Busqueda.deps.json
+c:\Users\160279\Documents\IA\Busqueda\bin\Debug\netcoreapp3.1\Busqueda.runtimeconfig.json
+c:\Users\160279\Documents\IA\Busqueda\bin\Debug\netcoreapp3.1\Busqueda.runtimeconfig.dev.json
+c:\Users\160279\Documents\IA\Busqueda\bin\Debug\netcoreapp3.1\Busqueda.dll
+c:\Users\160279\Documents\IA\Busqueda\bin\Debug\netcoreapp3.1\Busqueda.pdb
+c:\Users\160279\Documents\IA\Busqueda\bin\Debug\netcoreapp3.1\FSharp.Core.dll
+c:\Users\160279\Documents\IA\Busqueda\bin\Debug\netcoreapp3.1\cs\FSharp.Core.resources.dll
+c:\Users\160279\Documents\IA\Busqueda\bin\Debug\netcoreapp3.1\de\FSharp.Core.resources.dll
+c:\Users\160279\Documents\IA\Busqueda\bin\Debug\netcoreapp3.1\es\FSharp.Core.resources.dll
+c:\Users\160279\Documents\IA\Busqueda\bin\Debug\netcoreapp3.1\fr\FSharp.Core.resources.dll
+c:\Users\160279\Documents\IA\Busqueda\bin\Debug\netcoreapp3.1\it\FSharp.Core.resources.dll
+c:\Users\160279\Documents\IA\Busqueda\bin\Debug\netcoreapp3.1\ja\FSharp.Core.resources.dll
+c:\Users\160279\Documents\IA\Busqueda\bin\Debug\netcoreapp3.1\ko\FSharp.Core.resources.dll
+c:\Users\160279\Documents\IA\Busqueda\bin\Debug\netcoreapp3.1\pl\FSharp.Core.resources.dll
+c:\Users\160279\Documents\IA\Busqueda\bin\Debug\netcoreapp3.1\pt-BR\FSharp.Core.resources.dll
+c:\Users\160279\Documents\IA\Busqueda\bin\Debug\netcoreapp3.1\ru\FSharp.Core.resources.dll
+c:\Users\160279\Documents\IA\Busqueda\bin\Debug\netcoreapp3.1\tr\FSharp.Core.resources.dll
+c:\Users\160279\Documents\IA\Busqueda\bin\Debug\netcoreapp3.1\zh-Hans\FSharp.Core.resources.dll
+c:\Users\160279\Documents\IA\Busqueda\bin\Debug\netcoreapp3.1\zh-Hant\FSharp.Core.resources.dll
+c:\Users\160279\Documents\IA\Busqueda\obj\Debug\netcoreapp3.1\Busqueda.fsprojAssemblyReference.cache
+c:\Users\160279\Documents\IA\Busqueda\obj\Debug\netcoreapp3.1\Busqueda.AssemblyInfoInputs.cache
+c:\Users\160279\Documents\IA\Busqueda\obj\Debug\netcoreapp3.1\Busqueda.AssemblyInfo.fs
+c:\Users\160279\Documents\IA\Busqueda\obj\Debug\netcoreapp3.1\Busqueda.fsproj.CopyComplete
+c:\Users\160279\Documents\IA\Busqueda\obj\Debug\netcoreapp3.1\Busqueda.dll
+c:\Users\160279\Documents\IA\Busqueda\obj\Debug\netcoreapp3.1\Busqueda.pdb
+C:\Users\tsuna\OneDrive\Escritorio\8tov Semestre\Inteligencia Artificil\Busqueda\bin\Debug\netcoreapp3.1\Busqueda.exe
+C:\Users\tsuna\OneDrive\Escritorio\8tov Semestre\Inteligencia Artificil\Busqueda\bin\Debug\netcoreapp3.1\Busqueda.deps.json
+C:\Users\tsuna\OneDrive\Escritorio\8tov Semestre\Inteligencia Artificil\Busqueda\bin\Debug\netcoreapp3.1\Busqueda.runtimeconfig.json
+C:\Users\tsuna\OneDrive\Escritorio\8tov Semestre\Inteligencia Artificil\Busqueda\bin\Debug\netcoreapp3.1\Busqueda.runtimeconfig.dev.json
+C:\Users\tsuna\OneDrive\Escritorio\8tov Semestre\Inteligencia Artificil\Busqueda\bin\Debug\netcoreapp3.1\Busqueda.dll
+C:\Users\tsuna\OneDrive\Escritorio\8tov Semestre\Inteligencia Artificil\Busqueda\bin\Debug\netcoreapp3.1\Busqueda.pdb
+C:\Users\tsuna\OneDrive\Escritorio\8tov Semestre\Inteligencia Artificil\Busqueda\bin\Debug\netcoreapp3.1\FSharp.Core.dll
+C:\Users\tsuna\OneDrive\Escritorio\8tov Semestre\Inteligencia Artificil\Busqueda\bin\Debug\netcoreapp3.1\cs\FSharp.Core.resources.dll
+C:\Users\tsuna\OneDrive\Escritorio\8tov Semestre\Inteligencia Artificil\Busqueda\bin\Debug\netcoreapp3.1\de\FSharp.Core.resources.dll
+C:\Users\tsuna\OneDrive\Escritorio\8tov Semestre\Inteligencia Artificil\Busqueda\bin\Debug\netcoreapp3.1\es\FSharp.Core.resources.dll
+C:\Users\tsuna\OneDrive\Escritorio\8tov Semestre\Inteligencia Artificil\Busqueda\bin\Debug\netcoreapp3.1\fr\FSharp.Core.resources.dll
+C:\Users\tsuna\OneDrive\Escritorio\8tov Semestre\Inteligencia Artificil\Busqueda\bin\Debug\netcoreapp3.1\it\FSharp.Core.resources.dll
+C:\Users\tsuna\OneDrive\Escritorio\8tov Semestre\Inteligencia Artificil\Busqueda\bin\Debug\netcoreapp3.1\ja\FSharp.Core.resources.dll
+C:\Users\tsuna\OneDrive\Escritorio\8tov Semestre\Inteligencia Artificil\Busqueda\bin\Debug\netcoreapp3.1\ko\FSharp.Core.resources.dll
+C:\Users\tsuna\OneDrive\Escritorio\8tov Semestre\Inteligencia Artificil\Busqueda\bin\Debug\netcoreapp3.1\pl\FSharp.Core.resources.dll
+C:\Users\tsuna\OneDrive\Escritorio\8tov Semestre\Inteligencia Artificil\Busqueda\bin\Debug\netcoreapp3.1\pt-BR\FSharp.Core.resources.dll
+C:\Users\tsuna\OneDrive\Escritorio\8tov Semestre\Inteligencia Artificil\Busqueda\bin\Debug\netcoreapp3.1\ru\FSharp.Core.resources.dll
+C:\Users\tsuna\OneDrive\Escritorio\8tov Semestre\Inteligencia Artificil\Busqueda\bin\Debug\netcoreapp3.1\tr\FSharp.Core.resources.dll
+C:\Users\tsuna\OneDrive\Escritorio\8tov Semestre\Inteligencia Artificil\Busqueda\bin\Debug\netcoreapp3.1\zh-Hans\FSharp.Core.resources.dll
+C:\Users\tsuna\OneDrive\Escritorio\8tov Semestre\Inteligencia Artificil\Busqueda\bin\Debug\netcoreapp3.1\zh-Hant\FSharp.Core.resources.dll
+C:\Users\tsuna\OneDrive\Escritorio\8tov Semestre\Inteligencia Artificil\Busqueda\obj\Debug\netcoreapp3.1\Busqueda.fsprojAssemblyReference.cache
+C:\Users\tsuna\OneDrive\Escritorio\8tov Semestre\Inteligencia Artificil\Busqueda\obj\Debug\netcoreapp3.1\Busqueda.AssemblyInfoInputs.cache
+C:\Users\tsuna\OneDrive\Escritorio\8tov Semestre\Inteligencia Artificil\Busqueda\obj\Debug\netcoreapp3.1\Busqueda.AssemblyInfo.fs
+C:\Users\tsuna\OneDrive\Escritorio\8tov Semestre\Inteligencia Artificil\Busqueda\obj\Debug\netcoreapp3.1\Busqueda.fsproj.CopyComplete
+C:\Users\tsuna\OneDrive\Escritorio\8tov Semestre\Inteligencia Artificil\Busqueda\obj\Debug\netcoreapp3.1\Busqueda.dll
+C:\Users\tsuna\OneDrive\Escritorio\8tov Semestre\Inteligencia Artificil\Busqueda\obj\Debug\netcoreapp3.1\Busqueda.pdb
